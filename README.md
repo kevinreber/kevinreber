@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other engineers
 - 💬 Ask me how to reverse a linked list
 - 📝 <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.d9171c59.pdf" target="_blank">Resume</a>
-- ⚡ Fun facts: I'm an ex-architect and I love sharing music, let's trade playlists!
+- ⚡ Fun facts: 
+    - I'm an ex-architect 
+    - My friends call me Reebz
+    - I love sharing music, let's trade playlists!
 
 ### Spotify Playing 🎧
 <a href="https://open.spotify.com/user/maxreebz" target="_blank">
