@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: I'm an ex-architect and I love sharing music, let's trade playlists!
 
 ### Spotify Playing 🎧
-<a href="https://open.spotify.com/playlist/0KS2TnWdES3DGskjHxRB88?si=YNnjQDwKT12t22KAfvdgyw" target="_blank">
+<a href="https://open.spotify.com/user/maxreebz" target="_blank">
     <img src="https://spotify-now-playing-widget.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 <br />
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCusLmVF5IZuZD50686HOJ5A" target="_blank">
     <img align="center" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" alt="youtube-kevin-reber" height="25" width="35" />
   </a>
-    <a href="https://www.strava.com/athletes/47910885" target="_blank">
+    <a href="https://www.strava.com/athletes/47910885" target="blank">
     <img align="center" src="https://camo.githubusercontent.com/f9414b773ebe67885820174a0fc889f4837abb40cd8a684140b4bd32e4e7b990/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7374726176612e737667" alt="strava-kevin-reber" height="25" width="35" />
   </a>
 </p>
