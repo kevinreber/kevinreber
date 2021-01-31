@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me how to reverse a linked list
 - 📝 <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.d9171c59.pdf" target="_blank">Resume</a>
 - ⚡ Fun facts: 
-    - I'm an ex-architect 
-    - My friends call me Reebz
+    - In school I studied architecture 🏛
+    - My friends call me Reebz 😎    
     - I love sharing music, let's trade playlists!
 
 ### Spotify Playing 🎧
