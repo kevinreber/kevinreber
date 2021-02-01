@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## I'm a passionate self-taught engineer from San Francisco 🌉
 <br />
 
-- 🚀 I’m currently working on some cool super secret side projects 🤫
+- 🚀 I’m currently working on some cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other engineers
 - 💬 Ask me how to reverse a linked list
 - 📝 <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.d9171c59.pdf" target="_blank">Resume</a>
