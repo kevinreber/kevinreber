@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🚀 I’m currently working on some cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other engineers
 - 💬 Ask me how to reverse a linked list
-- 📝 <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.d9171c59.pdf" target="_blank">Resume</a>
+- 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
 - ⚡ Fun facts: 
     - Ex-Architect 🏛
     - Friends call me Reebz 😎    
