@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
 - ⚡ Fun facts: 
     - Ex-Architect 🏛
-    - Friends call me Reebz 😎    
+    - Drone Enthusiast 🚁
     - I love sharing music, let's trade playlists!
 
 ### Spotify Playing <a href="https://open.spotify.com/user/maxreebz" target="_blank">🎧</a>
