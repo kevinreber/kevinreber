@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/k_reebz/" target="blank">
   <img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="instagram-k_reebz" height="25" width="35" />
 </a>
-  <a href="https://www.youtube.com/channel/UCusLmVF5IZuZD50686HOJ5A" target="_blank">
+  <a href="https://www.youtube.com/watch?v=PZ_KZtoh_Mw" target="_blank">
     <img align="center" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" alt="youtube-kevin-reber" height="25" width="35" />
   </a>
     <a href="https://www.strava.com/athletes/47910885" target="blank">
