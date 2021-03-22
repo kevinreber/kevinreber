@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     - I love sharing music, let's trade playlists!
 
 ### Spotify Playing <a href="https://open.spotify.com/user/maxreebz" target="_blank">🎧</a>
-<a href="https://spotify-now-playing-widget.vercel.app/now-playing?open" target="_blank"><img src="https://spotify-now-playing-widget.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+<a href="https://spotify-now-playing-widget.vercel.app/now-playing?open" target="_blank"><img src="https://spotify-now-playing-widget.vercel.app/now-playing" width="100%" height="64" alt="Now Playing"></a>
 
 <br />
 
