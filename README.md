@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 -->
 ### Hello World, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm a passionate self-taught engineer from San Francisco 🌉
-<br />
+## ⚙️ Currently building infra tools over @ <a href="https://www.linkedin.com/in/kevin-reber/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="linkedin-kevin-reber" height="25" width="35" /></a> 😎
+  <br />
 
-- 🚀 I’m currently working on some cool top secret side projects 🤫
+- 🚀 I’m also working on some cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other engineers
 - 💬 Ask me how to cut 15lbs in a day 💪
 - 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
