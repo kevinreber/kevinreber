@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 -->
 ## Hello World, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a passionate self-taught engineer from San Francisco 🌉
-### ⚙️ Currently building infra tools over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 😎
+### Currently building infra tools over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 👨‍💻
   <br />
 
-- 🚀 I’m also working on some cool top secret side projects 🤫
+- 🚀 I’m also working on some super cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other engineers
-- 💬 Ask me how to cut 15lbs in a day 💪
+- 💬 Ask me what passion projects I'm working on 🎥
 - 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
 - ⚡ Fun facts: 
     - Ex-Architect 🏛
