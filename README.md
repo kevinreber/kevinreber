@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ### I'm a passionate self-taught engineer from San Francisco 🌉
 ### Currently building infra tools over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 👨‍💻
   <br />
