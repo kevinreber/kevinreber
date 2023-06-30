@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <br />
 
 - 🚀 I’m also working on some super cool top secret side projects 🤫
-- 👯 I’m looking to collaborate with other engineers
+- 👯 I’m looking to collaborate with other indie hackers 👨‍💻
 - 💬 Ask me what passion projects I'm working on 🎥
 - 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
 - ⚡ Fun facts: 
