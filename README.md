@@ -72,3 +72,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://camo.githubusercontent.com/f9414b773ebe67885820174a0fc889f4837abb40cd8a684140b4bd32e4e7b990/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7374726176612e737667" alt="strava-kevin-reber" height="25" width="35" />
   </a>
 </p>
+
+<a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
