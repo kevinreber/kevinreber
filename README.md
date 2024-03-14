@@ -74,4 +74,14 @@ Here are some ideas to get you started:
 </p>
 <br />
 
+### Favorite Tools
+| Name     | Description                                                                                                                                                                                                                                                                                  |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Raycast](https://www.raycast.com)  | Raycast is a productivity tool for Mac that provides quick access to apps, data, files, commands, and shortcuts through a centralized command palette. Hit me up for a referral and we can both get a month free of Raycast Pro!                                                                          |
+| [iTerm](https://iterm2.com)    | iTerm2 is a replacement for Mac's Terminal. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.                                                                                                                                                    |
+| [CleanShot](https://cleanshot.com) | CleanShot is the best screenshot and screen recording app for Mac with a built-in annotation tool, Cloud uploading, scrolling capture, and a lot more.                                                                                                                                        |
+| [Byobu](https://www.byobu.org/home)    | Byobu is an open-source text-based window manager and terminal multiplexer. Byobu includes enhanced profiles, convenient keybindings, configuration utilities, and toggleable system status notifications for both the GNU Screen window manager and the more modern Tmux terminal multiplexer. Works on most Linux, BSD, and Mac distributions. |
+| [VS Code](https://code.visualstudio.com)  | Visual Studio Code is a popular code editor known for its versatility and extensive set of features.                                                                                                                                                                                       |
+
+
 <a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
