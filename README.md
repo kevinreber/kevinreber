@@ -166,7 +166,7 @@ export PATH="$VOLTA_HOME/bin:$PATH"
 
 ### Custom Aliases
 ```
-# Custom aliases for ".bashrc" for ".zshrc" file
+# My favorite custom aliases for ".bashrc" for ".zshrc" files
 
 # yarn aliases
 alias y="yarn"
