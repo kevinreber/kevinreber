@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 | [Byobu](https://www.byobu.org/home)    | Byobu is an open-source text-based window manager and terminal multiplexer. Byobu includes enhanced profiles, convenient keybindings, configuration utilities, and toggleable system status notifications for both the GNU Screen window manager and the more modern [Tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer. Works on most Linux, BSD, and Mac distributions. |
 | [VS Code](https://code.visualstudio.com)  | Do I need to explain? 😏                                                                                                                                                                                       |
 
-
+<!--
 ### Zsh Config
 ```
 # ".zshrc" file
@@ -161,6 +161,38 @@ alias ports="sudo lsof -i -n -P | grep TCP"
 . /usr/local/opt/asdf/libexec/asdf.sh
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
+```
+-->
+
+### Custom Aliases
+```
+# Custom aliases for ".bashrc" for ".zshrc" file
+
+# yarn aliases
+alias y="yarn"
+alias yi="yarn install"
+alias yst="yarn start"
+
+# Git Aliases
+alias g="git"
+alias ga="git add"
+alias gst="git status"
+alias gb="git branch"
+alias gco="git checkout"
+alias gc="git commit"
+alias gpl="git pull"
+alias gps="git push"
+alias gfo="git fetch origin"
+alias gl="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'"
+alias glo="git log --oneline"
+ 
+ 
+# MAC Aliases
+alias ports="sudo lsof -i -n -P | grep TCP"
+ 
+# VM Login Alias
+# SETUP BELOW during install
+# alias login="ssh <ENTER_REMOTE_VM>"
 ```
 
 <a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
