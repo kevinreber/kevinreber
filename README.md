@@ -166,6 +166,10 @@ export PATH="$VOLTA_HOME/bin:$PATH"
 -->
 
 ### Custom Aliases
+
+<details>
+  <summary>See configs...</summary>
+
 ```
 # My favorite custom aliases for ".bashrc" for ".zshrc" files
 
@@ -219,5 +223,7 @@ alias ports="sudo lsof -i -n -P | grep TCP"
 # SETUP BELOW during install
 # alias login="ssh <ENTER_REMOTE_VM>"
 ```
+
+</details>
 
 <a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
