@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Currently building infra tools over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 👨‍💻
   <br />
 
+- 🏗️ Build cool shit and get shit done 😎
 - 🚀 I’m also working on some super cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other indie hackers 👨‍💻
 - 💬 Ask me what passion projects I'm working on 🎥
