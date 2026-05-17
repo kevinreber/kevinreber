@@ -11,22 +11,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-### I'm a passionate self-taught engineer from San Francisco 🌉
-### Currently building infra tools over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 👨‍💻
-  <br />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World, I'm Kevin 
+### 🌉 I'm a passionate self-taught engineer from San Francisco 
+👨‍💻 Currently building infra tools to help manage our data centers over <a href="https://github.com/linkedin" target="_blank">@linkedin</a> 
+<br />
+📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
+<br />
+  
+### 🚀 Some things I'm building
+  - **[data-center-tycoon](https://github.com/kevinreber/data-center-tycoon)** — 2D isometric tycoon game where you build & run a data center. Clos-fabric topology, power/heat sim, 106
+  achievements, Live Mode renders real DC cabinet data. [Play it](https://data-center-tycoon.vercel.app)
+  - **[aura](https://github.com/kevinreber/aura)** — My personal AI assistant (think Jarvis) — MCP server + LangChain agent + web UI, wired into Calendar, Todoist, Weather, Maps. Works standalone
+   or plugs into Claude Desktop / Cursor
+  - **[bim-trace](https://github.com/kevinreber/bim-trace)** — 3D BIM visualization in the browser (Revit, but on the web)
+  - **[folio](https://github.com/kevinreber/folio)** — Local-first CLI for tracking career accomplishments, enriched with AI, packaged into resume bullets and brag docs
+  - **[pixel-studio](https://github.com/kevinreber/pixel-studio)** — AI image + video generation platform (DALL-E, Flux, Runway, Luma) with collections, social, and a prompt marketplace
+  - **[watch-party](https://github.com/kevinreber/watch-party)** — Real-time synchronized video watching with chat, playlists, badges, leaderboards
+  - **[clip-cut-ai](https://github.com/kevinreber/clip-cut-ai)** — AI transcript editor — detect filler words, click to remove, export a clean cut
 
-- 🏗️ Build cool shit and get shit done 😎
+<br />
+<!--
 - 🚀 I’m also working on some super cool top secret side projects 🤫
 - 👯 I’m looking to collaborate with other indie hackers 👨‍💻
 - 💬 Ask me what passion projects I'm working on 🎥
-- 📝 <a href="https://www.kevinreber.dev" target="_blank">Portfolio</a> | <a href="https://www.kevinreber.dev/static/media/Kevin_Reber_Resume.e8a73019.pdf" target="_blank">Resume</a>
-- ⚡ Fun facts: 
-    - Ex-Architect 🏛
-    - Drone Enthusiast 🚁
-    - I love sharing music, let's trade playlists!
+-->
 
-### Spotify Playing <a href="https://open.spotify.com/user/maxreebz" target="_blank">🎧</a>
+
+### ⚡ Fun facts: 
+  - 🏛️ Ex-Architecture
+  - 🚁 Drone Enthusiast
+  - 🎧 Always trading playlists — vaporwave, city pop, French house, anime OSTs, + everything else
+
+<br />
+
+### 🎧 Now Playing <a href="https://open.spotify.com/user/maxreebz" target="_blank"></a>
 <a href="https://spotify-now-playing-widget.vercel.app/now-playing?open" target="_blank"><img src="https://spotify-now-playing-widget.vercel.app/now-playing" width="100%" height="64" alt="Now Playing"></a>
 
 <br />
@@ -59,7 +77,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Connect with me
+### 🔗 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-reber/" target="_blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" alt="linkedin-kevin-reber" height="25" width="35" /></a>
   <a href="https://twitter.com/reebz_eth" target="blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=twitter" alt="twitter-k_reebz" height="25" width="35" /></a>
@@ -68,9 +86,23 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/watch?v=PZ_KZtoh_Mw" target="_blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=youtube" alt="youtube-kevin-reber" height="25" width="35" /></a>
     <a href="https://www.strava.com/athletes/47910885" target="blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=strava" alt="strava-kevin-reber" height="25" width="35" /></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <br />
 
-### Favorite Tools
+### 🛠️ Daily Driver
+| Tool | What it does |
+  |---|---|
+  | [Claude Code](https://claude.com/claude-code) | My main coding companion — see my [configs](https://github.com/kevinreber/claude-code-configs) |
+  | [Raycast](https://www.raycast.com) | Mac productivity / launcher ([referral](https://www.raycast.com/?via=kevinreber)) |
+  | [Obsidian](https://obsidian.md) | Second brain — powers my [brain-vault](https://github.com/kevinreber/brain-vault) |
+  | [ghostty](https://ghostty.org) + [tmux](https://github.com/tmux/tmux) | Terminal setup — [my tmux configs](https://github.com/kevinreber/tmux-configs) |
+  | [CleanShot](https://cleanshot.com) | Screenshots & screen recording |
+
+<br />
+<!--
+
 | Name     | Description                                                                                                                                                                                                                                                                                  |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Raycast](https://www.raycast.com)  | Raycast is a productivity tool for Mac that provides quick access to apps, data, files, commands, and shortcuts through a centralized command palette. Hit me up for a referral and we can both get a month free of Raycast Pro!                                                                          |
@@ -79,147 +111,13 @@ Here are some ideas to get you started:
 | [Byobu](https://www.byobu.org/home)    | Byobu is an open-source text-based window manager and terminal multiplexer. Byobu includes enhanced profiles, convenient keybindings, configuration utilities, and toggleable system status notifications for both the GNU Screen window manager and the more modern [Tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer. Works on most Linux, BSD, and Mac distributions. |
 | [Mosh](https://mosh.org/) | Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes. TLDR; A tool that maintains your SSH connection even if you close your laptop! |
 | [VS Code](https://code.visualstudio.com)  | Do I need to explain? 😏                                                                                                                                                                                       |
-
-<!--
-### Zsh Config
-```
-# ".zshrc" file
-
-# If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
- 
-# Path to your oh-my-zsh installation.
-# SETUP BELOW during install
-# export ZSH="/Users/kreber/.oh-my-zsh"
- 
-# Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
-# to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="agnoster"
- 
-# Set list of themes to pick from when loading at random
-# Setting this variable when ZSH_THEME=random will cause zsh to load
-# a theme from this variable instead of looking in $ZSH/themes/
-# If set to an empty array, this variable will have no effect.
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
- 
- 
-# Which plugins would you like to load?
-# Standard plugins can be found in $ZSH/plugins/
-# Custom plugins may be added to $ZSH_CUSTOM/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-# Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
- 
-source $ZSH/oh-my-zsh.sh
- 
-# LunarVim
-export PATH="$HOME/.local/bin":$PATH
- 
-# User configuration
- 
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
- 
-alias zshconfig="mate ~/.zshrc"
-alias ohmyzsh="mate ~/.oh-my-zsh"
- 
-# yarn aliases
-alias y="yarn"
-alias yi="yarn install"
-alias yst="yarn start"
-
-# Git Aliases
-alias g="git"
-alias ga="git add"
-alias gst="git status"
-alias gb="git branch"
-alias gco="git checkout"
-alias gc="git commit"
-alias gpl="git pull"
-alias gps="git push"
-alias gfo="git fetch origin"
-alias gl="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'"
-alias glo="git log --oneline"
- 
-# Playwright Aliases
-alias codegen="npx playwright codegen localhost:3000"
- 
-# MAC Aliases
-alias ports="sudo lsof -i -n -P | grep TCP"
- 
-# VM Login Alias
-# SETUP BELOW during install
-# alias login="ssh <ENTER_REMOTE_VM>"
- 
-. /usr/local/opt/asdf/libexec/asdf.sh
-export VOLTA_HOME="$HOME/.volta"
-export PATH="$VOLTA_HOME/bin:$PATH"
-```
 -->
 
-### Custom Aliases
 
-<details>
-  <summary>See configs...</summary>
+### ⚙️ Dotfiles & Configs
+Full setup, aliases, and machine provisioning live in **[personal-setup](https://github.com/kevinreber/personal-setup)**
+  - **[claude-code-configs](https://github.com/kevinreber/claude-code-configs)** — Claude Code skills, hooks, settings
+  - **[zshrc-configs](https://github.com/kevinreber/zshrc-configs)** — Shell aliases & functions
+  - **[tmux-configs](https://github.com/kevinreber/tmux-configs)** — tmux keybindings (inspired by byobu)
+  - **[homebrew-tap](https://github.com/kevinreber/homebrew-tap)** — Personal homebrew formulas
 
-```
-# My favorite custom aliases for ".bashrc" for ".zshrc" files
-
-# Configs
-alias zshconfig="vim ~/.zshrc" # or "vim ~/.bashrc"
-alias tmuxconfig="vim ~/.tmux.conf"
-
-# yarn aliases
-alias y="yarn"
-alias yi="yarn install"
-alias yst="yarn start"
-
-# Git Aliases
-alias g="git"
-alias ga="git add"
-alias gst="git status"
-alias gb="git branch"
-alias gco="git checkout"
-alias gc="git commit"
-alias gpl="git pull"
-alias gps="git push"
-alias gfo="git fetch origin"
-alias gl="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'"
-alias glo="git log --oneline"
- 
-# TMux Aliases
-alias tmns="tmux new-session -s"
-alias tma="tmux attach-session -t"
-alias tml="tmux list-sessions"
-alias tmk="tmux kill-session -t"
-alias tmd="tmux detach"
-alias tmrename="tmux rename-window"
-alias tmv="tmux split-window -v"
-alias tmh="tmux split-window -h"
-alias tmnw="tmux new-window"
-alias tmnext="tmux next-window"
-alias tmprev="tmux previous-window"
-alias tmsw="tmux select-window -t"
-alias tmresize="tmux resize-pane"
-alias tmsync="tmux setw synchronize-panes on"
-alias tmunsync="tmux setw synchronize-panes off"
-alias tmsend="tmux send-keys"
-alias tmcapture="tmux capture-pane -S -"
-alias tmsave="tmux save-buffer -b"
-alias tmconf="tmux show-options -g"
-
-# MAC Aliases
-alias ports="sudo lsof -i -n -P | grep TCP"
- 
-# VM Login Alias
-# SETUP BELOW during install
-# alias login="ssh <ENTER_REMOTE_VM>"
-```
-
-</details>
-
-<a href="https://www.buymeacoffee.com/kevinreber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
